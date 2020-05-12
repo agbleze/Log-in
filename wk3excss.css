@@ -1,0 +1,68 @@
+#logIn #btnsecoutline {
+  /*width: 100%; */
+ 
+  border-radius: 150px;
+
+  text-align: center; 
+  width: 500px; 
+  height: 50px;
+  
+}
+
+input[type=checkbox] {
+  background-color: rgb(51, 216, 51);
+}
+
+.form-check-label {
+  color: #ccc;
+}
+
+#logIn {
+  margin-block-end: right;
+  justify-content: end;
+  align-items: right;
+  margin-right: 5px;
+}
+
+#facebookButton {
+  background-color: #3b5998;
+  font-size: 14px;
+  letter-spacing: 2px; 
+  border-radius: 500px;
+}
+
+#appleButton {
+  background-color: black;
+  border: none;
+  border-radius: 500px;
+  line-height: 1;
+  white-space: normal;
+  letter-spacing: 2px;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+#btnSpotifySignUp {
+  border-radius: 30px;
+}
+
+.thru-line {
+  text-align: center;
+  display: block;
+  font-size: .875em;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+
+}
+
+#text-con {
+
+  color: #88898c;
+  font-size: 11.5px;
+  word-break: break-all;
+}
+
+input[type=checkbox] {
+  background-color: green;
+}
